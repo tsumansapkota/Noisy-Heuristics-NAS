@@ -1,0 +1,10 @@
+{
+"learning_rate": 0.005,
+"num_add_neuron": 30,
+"num_decay_steps": 4689,
+"remove_above": 10,
+"threshold_max": 1,
+"train_epoch_min": 1,
+"train_epoch_max": 6,
+"add_to_remove_ratio": 1.9
+}

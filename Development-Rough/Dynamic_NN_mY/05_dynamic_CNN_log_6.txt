@@ -1,0 +1,597 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DateTime: February 09, 2021 @ 15:57:13num_add_neuron :50
+ add_to_remove_ratio :1.5
+learning_rate :0.01
+ num_decay_steps :4689
+threshold_max :1
+ threshold_min :0.001
+train_epoch_min :1
+ threshold_max :6
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+####################| Loop:0 | Epoch: 6 
+| Dynamic Neurons:96 | Total Parameters: 16290 | Trainable Parameters: 16290
+| Train Acc:45.838 | Test Acc: 45.650
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     8
+    ╔╝
+    8
+   ╔╝
+   16
+  ╔╝
+  32
+ ╔╝
+ 32
+╔╝
+│
+10
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DateTime: February 09, 2021 @ 16:00:32num_add_neuron :50
+ add_to_remove_ratio :1.5
+learning_rate :0.01
+ num_decay_steps :4689
+threshold_max :1
+ threshold_min :0.001
+train_epoch_min :1
+ threshold_max :6
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+####################| Loop:0 | Epoch: 6 
+| Dynamic Neurons:96 | Total Parameters: 16290 | Trainable Parameters: 16290
+| Train Acc:43.580 | Test Acc: 40.240
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     8
+    ╔╝
+    8
+   ╔╝
+   16
+  ╔╝
+  32
+ ╔╝
+ 32
+╔╝
+│
+10
+
+
+####################| Loop:1 | Epoch: 8 
+| Dynamic Neurons:93 | Total Parameters: 15328 | Trainable Parameters: 15328
+| Train Acc:43.214 | Test Acc: 40.240
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     8
+    ╔╝
+    8
+   ╔╝
+   15
+  ╔╝
+  32
+ ╔╝
+ 30
+╔╝
+│
+10
+
+
+####################| Loop:2 | Epoch: 10 
+| Dynamic Neurons:79 | Total Parameters: 11488 | Trainable Parameters: 11488
+| Train Acc:36.388 | Test Acc: 35.670
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     6
+    ╔╝
+    6
+   ╔╝
+   14
+  ╔╝
+  28
+ ╔╝
+ 25
+╔╝
+│
+10
+
+
+####################| Loop:3 | Epoch: 12 
+| Dynamic Neurons:70 | Total Parameters: 8963 | Trainable Parameters: 8963
+| Train Acc:23.078 | Test Acc: 24.670
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     6
+    ╔╝
+    6
+   ╔╝
+   13
+  ╔╝
+  25
+ ╔╝
+ 20
+╔╝
+│
+10
+
+
+####################| Loop:4 | Epoch: 15 
+| Dynamic Neurons:68 | Total Parameters: 8518 | Trainable Parameters: 8518
+| Train Acc:18.372 | Test Acc: 19.980
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     6
+    ╔╝
+    5
+   ╔╝
+   12
+  ╔╝
+  25
+ ╔╝
+ 20
+╔╝
+│
+10
+
+
+####################| Loop:5 | Epoch: 17 
+| Dynamic Neurons:67 | Total Parameters: 8228 | Trainable Parameters: 8228
+| Train Acc:18.388 | Test Acc: 20.240
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     6
+    ╔╝
+    5
+   ╔╝
+   12
+  ╔╝
+  24
+ ╔╝
+ 20
+╔╝
+│
+10
+
+
+####################| Loop:6 | Epoch: 19 
+| Dynamic Neurons:61 | Total Parameters: 7061 | Trainable Parameters: 7061
+| Train Acc:18.578 | Test Acc: 20.080
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     5
+    ╔╝
+    4
+   ╔╝
+   11
+  ╔╝
+  24
+ ╔╝
+ 17
+╔╝
+│
+10
+
+
+####################| Loop:7 | Epoch: 21 
+| Dynamic Neurons:56 | Total Parameters: 5905 | Trainable Parameters: 5905
+| Train Acc:19.366 | Test Acc: 21.610
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     5
+    ╔╝
+    4
+   ╔╝
+   10
+  ╔╝
+  23
+ ╔╝
+ 14
+╔╝
+│
+10
+
+
+####################| Loop:8 | Epoch: 24 
+| Dynamic Neurons:51 | Total Parameters: 4840 | Trainable Parameters: 4840
+| Train Acc:19.774 | Test Acc: 21.600
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     5
+    ╔╝
+    4
+   ╔╝
+   9
+  ╔╝
+  21
+ ╔╝
+ 12
+╔╝
+│
+10
+
+
+####################| Loop:9 | Epoch: 27 
+| Dynamic Neurons:49 | Total Parameters: 4458 | Trainable Parameters: 4458
+| Train Acc:16.548 | Test Acc: 18.410
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     5
+    ╔╝
+    4
+   ╔╝
+   9
+  ╔╝
+  19
+ ╔╝
+ 12
+╔╝
+│
+10
+
+
+####################| Loop:10 | Epoch: 29 
+| Dynamic Neurons:48 | Total Parameters: 4330 | Trainable Parameters: 4330
+| Train Acc:16.142 | Test Acc: 17.910
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     5
+    ╔╝
+    3
+   ╔╝
+   9
+  ╔╝
+  19
+ ╔╝
+ 12
+╔╝
+│
+10
+
+
+####################| Loop:11 | Epoch: 31 
+| Dynamic Neurons:47 | Total Parameters: 4130 | Trainable Parameters: 4130
+| Train Acc:10.706 | Test Acc: 10.610
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     5
+    ╔╝
+    3
+   ╔╝
+   8
+  ╔╝
+  19
+ ╔╝
+ 12
+╔╝
+│
+10
+
+
+####################| Loop:12 | Epoch: 33 
+| Dynamic Neurons:44 | Total Parameters: 3710 | Trainable Parameters: 3710
+| Train Acc:10.790 | Test Acc: 10.730
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     4
+    ╔╝
+    3
+   ╔╝
+   8
+  ╔╝
+  17
+ ╔╝
+ 12
+╔╝
+│
+10
+
+
+####################| Loop:13 | Epoch: 35 
+| Dynamic Neurons:44 | Total Parameters: 3710 | Trainable Parameters: 3710
+| Train Acc:10.936 | Test Acc: 11.010
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     4
+    ╔╝
+    3
+   ╔╝
+   8
+  ╔╝
+  17
+ ╔╝
+ 12
+╔╝
+│
+10
+
+
+####################| Loop:14 | Epoch: 37 
+| Dynamic Neurons:41 | Total Parameters: 3307 | Trainable Parameters: 3307
+| Train Acc:10.964 | Test Acc: 11.010
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     3
+    ╔╝
+    3
+   ╔╝
+   7
+  ╔╝
+  17
+ ╔╝
+ 11
+╔╝
+│
+10
+
+
+####################| Loop:15 | Epoch: 39 
+| Dynamic Neurons:40 | Total Parameters: 3251 | Trainable Parameters: 3251
+| Train Acc:11.668 | Test Acc: 11.260
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    3
+   ╔╝
+   7
+  ╔╝
+  17
+ ╔╝
+ 11
+╔╝
+│
+10
+
+
+####################| Loop:16 | Epoch: 41 
+| Dynamic Neurons:38 | Total Parameters: 3004 | Trainable Parameters: 3004
+| Train Acc:10.056 | Test Acc: 9.770
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    2
+   ╔╝
+   7
+  ╔╝
+  16
+ ╔╝
+ 11
+╔╝
+│
+10
+
+
+####################| Loop:17 | Epoch: 45 
+| Dynamic Neurons:34 | Total Parameters: 2391 | Trainable Parameters: 2391
+| Train Acc:9.694 | Test Acc: 9.590
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    2
+   ╔╝
+   6
+  ╔╝
+  15
+ ╔╝
+ 9
+╔╝
+│
+10
+
+
+####################| Loop:18 | Epoch: 47 
+| Dynamic Neurons:30 | Total Parameters: 1860 | Trainable Parameters: 1860
+| Train Acc:9.900 | Test Acc: 10.010
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    2
+   ╔╝
+   6
+  ╔╝
+  12
+ ╔╝
+ 8
+╔╝
+│
+10
+
+
+####################| Loop:19 | Epoch: 49 
+| Dynamic Neurons:29 | Total Parameters: 1732 | Trainable Parameters: 1732
+| Train Acc:11.270 | Test Acc: 11.480
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    2
+   ╔╝
+   6
+  ╔╝
+  11
+ ╔╝
+ 8
+╔╝
+│
+10
+
+
+####################| Loop:20 | Epoch: 51 
+| Dynamic Neurons:29 | Total Parameters: 1732 | Trainable Parameters: 1732
+| Train Acc:11.748 | Test Acc: 11.790
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    2
+   ╔╝
+   6
+  ╔╝
+  11
+ ╔╝
+ 8
+╔╝
+│
+10
+
+
+####################| Loop:21 | Epoch: 53 
+| Dynamic Neurons:28 | Total Parameters: 1613 | Trainable Parameters: 1613
+| Train Acc:11.778 | Test Acc: 11.790
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    2
+   ╔╝
+   5
+  ╔╝
+  11
+ ╔╝
+ 8
+╔╝
+│
+10
+
+
+####################| Loop:22 | Epoch: 55 
+| Dynamic Neurons:26 | Total Parameters: 1429 | Trainable Parameters: 1429
+| Train Acc:13.648 | Test Acc: 14.730
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    1
+   ╔╝
+   5
+  ╔╝
+  10
+ ╔╝
+ 8
+╔╝
+│
+10
+
+
+####################| Loop:23 | Epoch: 58 
+| Dynamic Neurons:24 | Total Parameters: 1262 | Trainable Parameters: 1262
+| Train Acc:12.808 | Test Acc: 13.410
+3
+╚╗
+ ╚╗
+  ╚╗
+   ╚╗
+    ╚╗
+     2
+    ╔╝
+    0
+   ╔╝
+   5
+  ╔╝
+  10
+ ╔╝
+ 7
+╔╝
+│
+10
+
+
